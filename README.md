@@ -1,0 +1,2 @@
+# DeleteBedrolls
+Delete bedrolls, globally.
